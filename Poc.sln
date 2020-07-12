@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Poc", "Poc\Poc.vbproj", "{2616092E-01F1-4D4B-978D-F48E86967289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1BF88EE-FAAC-42BA-99D7-6270F1EAEBB9}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2616092E-01F1-4D4B-978D-F48E86967289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2616092E-01F1-4D4B-978D-F48E86967289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2616092E-01F1-4D4B-978D-F48E86967289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2616092E-01F1-4D4B-978D-F48E86967289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534DF02D-F5FC-4AFD-B2ED-489EAAECDEAB}
+	EndGlobalSection
+EndGlobal
